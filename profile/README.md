@@ -14,13 +14,13 @@
 
 ##### WHAT WE DO
 
->**Software solutions**
+>**Software solutions** :
 We design and develop web and mobile applications built around real needs. Every product starts with a problem worth solving and ends with a tool people can genuinely rely on.
 
->**Intelligent products**
+>**Intelligent products** :
 We bring AI into our software to make it smarter and more capable. From automating repetitive tasks to delivering useful insights, intelligence is built in where it adds real value.
 
->**Problem-solving at the core**
+>**Problem-solving at the core** :
 Technology is only as good as the problem it solves. We start with people and their challenges, then build the simplest, most effective solution for them.
 
 ##### OUR MISSION
@@ -29,4 +29,4 @@ Technology is only as good as the problem it solves. We start with people and th
 
 ---
 
-**Makcood — software that works for people.**
+###### **MAKCOOD — SOFTWARE THAT WORKS FOR PEOPLE.**
